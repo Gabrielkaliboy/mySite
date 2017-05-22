@@ -1,2 +1,2 @@
 # mySite
-这里存放的是个人站点 www.zhuhongwei.online
+原站www.zhuhongwei.online不再放在这里
